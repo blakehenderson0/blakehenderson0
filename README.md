@@ -2,4 +2,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Software+Engineer;Open+Source+Enthusiast;Always+learning)
 ## 📊 GitHub Stats
 
-![Blake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blakehenderson0&show_icons=true&theme=tokyonight://github-readme-stats.vercel.app/api/top-langs/?usernamelayout=compact&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=blakehenderson0&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=blakehenderson0&layout=compact&theme=tokyonight
